@@ -46,7 +46,7 @@ Becomes:
 Simply install to your project:
 
 ```bash
-sampctl package install ScavengeSurvive/mentions
+sampctl install astro-debug/mentions
 ```
 
 Include in your code and begin using the library:
@@ -60,7 +60,7 @@ Include in your code and begin using the library:
 To test, simply run the package:
 
 ```bash
-sampctl package run
+sampctl run
 ```
 
 And observe the y_testing output.
